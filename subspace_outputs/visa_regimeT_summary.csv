@@ -1,0 +1,4 @@
+,img_auroc,img_auroc,img_ap,img_ap,img_f1_max_oracle,img_f1_max_oracle,img_tpr_at_fpr1,img_tpr_at_fpr1,img_tpr_at_fpr5,img_tpr_at_fpr5,pix_auroc,pix_auroc,pix_ap,pix_ap,pix_f1_max_oracle,pix_f1_max_oracle,aupro_30,aupro_30,aupro_5,aupro_5
+,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std
+shot,,,,,,,,,,,,,,,,,,,,
+0,94.08,,94.6,,90.6,,46.67,,71.17,,98.45,,39.13,,45.81,,96.1,,85.65,
