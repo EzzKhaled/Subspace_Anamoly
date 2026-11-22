@@ -149,11 +149,7 @@ Per-category conformal thresholds; hybrid R + T fitting; per-category augmentati
 context features for logical defects; tiled high-resolution scoring; other backbones
 (DINOv3, RADIO); robust PCA for Regime T; a VLM verifier on borderline ROI crops.
 
-## Acknowledgements
 
-SubspaceAD is the work of its original authors; this repository is an independent
-re-implementation and evaluation. DINOv2 is from Meta AI. MVTec-AD and VisA belong to their
-respective authors; please follow their licences.
 
 ## Author
 
