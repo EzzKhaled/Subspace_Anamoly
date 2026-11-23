@@ -149,7 +149,10 @@ Per-category conformal thresholds; hybrid R + T fitting; per-category augmentati
 context features for logical defects; tiled high-resolution scoring; other backbones
 (DINOv3, RADIO); robust PCA for Regime T; a VLM verifier on borderline ROI crops.
 
+## Reference & Presentation
 
+- **Paper:** [SubspaceAD Paper](docs/SubspaceAD_Paper.pdf)
+- **Presentation:** [Project Slides](docs/SubspaceAD_Slides.pdf)
 
 ## Author
 
