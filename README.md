@@ -153,5 +153,5 @@ context features for logical defects; tiled high-resolution scoring; other backb
 
 ## Author
 
-Ezz Eldien Khaled - Ahmed Ayman
-Computer and Communication Engineering, Alexandria University.
+- Ezz Eldien Khaled - Ahmed Ayman
+- Computer and Communication Engineering, Alexandria University.
