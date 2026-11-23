@@ -5,7 +5,7 @@ SubspaceAD detects defects without training any model: it extracts frozen DINOv2
 features, fits a PCA subspace on normal patches, and scores anything the subspace cannot
 reconstruct as anomalous.
 
-This repository is part of my graduation project on zero/few-shot industrial anomaly
+This repository is part of our graduation project on zero/few-shot industrial anomaly
 detection (Computer and Communication Engineering, Alexandria University).
 
 ## How it works
@@ -153,4 +153,5 @@ context features for logical defects; tiled high-resolution scoring; other backb
 
 ## Author
 
-Ezz Eldien Khaled, Computer and Communication Engineering, Alexandria University.
+Ezz Eldien Khaled - Ahmed Ayman
+Computer and Communication Engineering, Alexandria University.
